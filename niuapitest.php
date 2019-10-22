@@ -6,7 +6,7 @@ require_once('niuapi.php');
 
 $username = 'email@example.com';
 $password = 'your_password';
-$country_code = '49';
+$country_code = '86';
 
 echo PHP_EOL . 'Getting token...' . PHP_EOL;
 if (file_exists('saved_token.txt')) {
